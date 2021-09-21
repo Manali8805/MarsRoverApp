@@ -1,0 +1,8 @@
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe.config
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.exe
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\bin\Debug\MarsRoverApp.pdb
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.frmRover.resources
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.Properties.Resources.resources
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.csproj.GenerateResource.Cache
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.exe
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverApp\obj\Debug\MarsRoverApp.pdb
