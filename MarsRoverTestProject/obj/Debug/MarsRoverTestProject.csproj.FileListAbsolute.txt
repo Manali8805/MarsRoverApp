@@ -1,0 +1,7 @@
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\bin\Debug\MarsRoverTestProject.dll
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\bin\Debug\MarsRoverTestProject.pdb
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\bin\Debug\MarsRoverApp.exe
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\bin\Debug\MarsRoverApp.pdb
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\obj\Debug\MarsRoverTestProject.csprojResolveAssemblyReference.cache
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\obj\Debug\MarsRoverTestProject.dll
+E:\Manali\Personal\Projects\MarsRoverApp\MarsRoverTestProject\obj\Debug\MarsRoverTestProject.pdb
